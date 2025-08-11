@@ -9,6 +9,23 @@ Built by [Future AGI](https://futureagi.com) | [Docs](https://docs.futureagi.com
 </div>
 
 ---
+## 📚 Table of Contents
+
+- [Overview](#-overview)
+- [Why AI-Evaluation SDK?](#-why-ai-evaluation-sdk)
+- [Features](#-features)
+- [Metrics & Evaluation Coverage](#-metrics--evaluation-coverage)
+- [Installation](#-installation)
+- [Quickstart](#-quickstart)
+- [Evaluation Use Cases](#-evaluation-use-cases)
+- [Integrations](#-integrations)
+- [Related Projects](#-related-projects)
+- [Docs and Tutorials](#-docs-and-tutorials)
+- [LLM Evaluation with Future AGI Platform](#-llm-evaluation-with-futureagi-platform)
+- [Roadmap](#-roadmap)
+- [Community & Support](#-community--support)
+- [Contributing](#-contributing)
+
 
 ## 🚀 Overview
 
@@ -20,6 +37,11 @@ No human-in-the-loop, no ground truth, no latency trade-offs.
 - 📊 **Error Analytics**: Built-in error tagging and explainability
 - 🔧 **SDK + UI**: Use Python or our low-code visual platform
 ---
+
+## ✨ Why AI-Evaluation SDK?
+
+- Instantly evaluate LLM and GenAI pipelines — no human-in-the-loop or ground truth required
+
 
 ## 📏 Metrics & Evaluation Coverage
 The ai-evaluation package supports a wide spectrum of evaluation metrics across text, image, and audio modalities. From functional validations to safety, bias, and summarization quality, our eval templates are curated to support both early-stage prototyping and production-grade guardrails.
@@ -374,6 +396,22 @@ Future AGI delivers a **complete, iterative evaluation lifecycle** so you can 
 * [ ] **CI/CD Evaluation Pipelines**
 * [ ] **AI Agent Evaluations**
 * [ ] **Session-Level Evaluations (Tracing-Aware)**
+
+---
+## 💬 Community & Support
+
+- [GitHub Discussions](https://github.com/future-agi/ai-evaluation/discussions) – Ask questions & share ideas
+- [File an Issue](https://github.com/future-agi/ai-evaluation/issues) – Report bugs or request features
+- [Request a Feature or Template](https://github.com/future-agi/ai-evaluation/issues/new?template=feature_request.md)
+
+---
+
+## 🛠️ Quick Links
+
+> ℹ️ Our Contributing Guidelines and Code of Conduct are managed via GitHub’s Community Standards. Use the links below to view or suggest changes.
+
+- [Contributing Guidelines](https://github.com/future-agi/ai-evaluation/tree/main?tab=contributing-ov-file#)
+- [Code of Conduct](https://github.com/future-agi/ai-evaluation/tree/main?tab=coc-ov-file#)
 
 ---
 
